@@ -1,7 +1,6 @@
 ## Olá eu sou o Dario Junior 👋
 
 - 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando Java e Android Studio
 
 <div>
   <a href="https://github.com/DarioRJunior">
@@ -13,6 +12,7 @@
   <img align="center" alt="Dario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Dario-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Dario-Java" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Dario-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
 </div>
