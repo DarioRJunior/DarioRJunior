@@ -1,6 +1,6 @@
 ## Olá eu sou o Dario Junior 👋
 
-- 🔭 Hoje trabalho com front-end e back-end
+- 🔭 Hoje estou estudando Front-end & Back-end
 
 <div>
   <a href="https://github.com/DarioRJunior">
