@@ -1,6 +1,6 @@
 <h1> Olá eu sou o Dario Junior 👋 </h1>
 
-- 🔭 Atualmente estou estudando Front-end e React!
+- 🔭 Atualmente estou estudando React e PHP!
 
 <div>
   <a href="https://github.com/DarioRJunior">
