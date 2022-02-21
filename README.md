@@ -1,4 +1,4 @@
-## Olá eu sou o Dario Junior 👋
+<h1> Olá eu sou o Dario Junior 👋 </h1>
 
 - 🔭 Atualmente estou estudando Front-end e React!
 
