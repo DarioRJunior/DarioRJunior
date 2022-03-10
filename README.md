@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/DarioRJunior">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DarioRJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DarioRJunior&show_icons=true&hide=issues&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioRJunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
