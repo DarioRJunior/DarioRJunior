@@ -1,5 +1,4 @@
 <h1> Olá eu sou o Dario Junior 👋 </h1>
-Select Language : [English], [Portuguese]
 
 - 🔭 <strong>Atualmente estou estudando React e PHP!</strong>
 
