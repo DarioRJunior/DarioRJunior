@@ -29,6 +29,9 @@
   <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
+    
+  ## IDEs/Editores
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 
   
   ## Entre em contato comigo <br>
