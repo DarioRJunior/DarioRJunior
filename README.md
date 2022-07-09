@@ -1,6 +1,7 @@
 <h1> Olá eu sou o Dario Junior 👋 </h1>
 
-- 🔭 <strong>Atualmente estou estudando Front-end e PHP, e estou no 5º Periodo da faculdade!</strong>
+- 🔭 <strong>Atualmente estou estudando Front-end e PHP!</strong>
+- 📚 <strong>Sou formado em Análise e Desenvolvimentos de sistemas pelo Unicuritiba!</strong>
 
 <div>
   <a href="https://github.com/DarioRJunior">
