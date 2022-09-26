@@ -1,6 +1,8 @@
 <h1> Olá eu sou o Dario Junior 👋 </h1>
 
-- 🔭 <strong>Atualmente estou estudando Desenvolvimento FullStack!</strong>
+- <strong>🖥️ Atualmente trabalho como desenvolvedor fullstack junior na empresa Resitrack.</strong>
+
+- 🔭 <strong>Atualmente estou estudando Desenvolvimento Front-end!</strong>
 - 📚 <strong>Sou formado em Análise e Desenvolvimentos de sistemas pelo Unicuritiba em 06/2022.</strong>
 - 📚 <strong>Sou pós-graduando em Projetos de Aplicativos Móveis Multiplataforma e Cloud Computing pela Descomplica!</strong>
 
