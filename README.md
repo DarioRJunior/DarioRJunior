@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/DarioRJunior">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DarioRJunior&show_icons=true&bg_color=ffffff&title_color=ff1a1a&text_color=ff1a1a&icon_color=ff1a1a&border_color=ff1a1a"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioRJunior&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DarioRJunior&show_icons=true&bg_color=0d1117&title_color=cb35ee&text_color=cb35ee&icon_color=cb35ee&border_color=cb35ee"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioRJunior&layout=compact&bg_color=0d1117&title_color=cb35ee&text_color=cb35ee&icon_color=cb35ee&border_color=cb35ee"/>
 </div>
   
   ## Linguagens e frameworks que utilizo no dia a dia <br>
