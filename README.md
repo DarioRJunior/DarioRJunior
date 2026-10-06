@@ -128,12 +128,7 @@ Site desenvolvido para a **Associação de Pilotos de Chevette da Velocidade na 
 
 O projeto representa uma aplicação web publicada e utilizada para disponibilizar informações da associação de forma acessível aos seus usuários.
 
-<p>
-  🌐 <strong>Projeto publicado</strong><br>
-  <a href="https://apcvnt.com.br/" target="_blank" rel="noopener noreferrer">
-    🔗 Acessar APCVNT
-  </a>
-</p>
+🌐 **[Acessar o projeto](https://apcvnt.com.br/)**
 
 **Tecnologias:**
 
